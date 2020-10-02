@@ -1,0 +1,22 @@
+.reminders {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  margin: 10px 0;
+  padding: 5px;
+}
+button {
+  width: 200px;
+  padding: 10px;
+  margin: 10px auto;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  width: 500px;
+}
